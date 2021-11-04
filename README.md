@@ -50,4 +50,4 @@ And build your solution
 ![GrowtopiaStealer done](https://user-images.githubusercontent.com/65458800/130509879-2558e60a-f980-47f1-b432-0c3267c9fa42.png)
 
 ## ToDo
-- idk suggests smth
+- Could add a app to make the builder..
